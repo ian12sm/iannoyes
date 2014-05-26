@@ -18,6 +18,9 @@ body {}
 .banner {
 position: fixed;
 }
+#menu-primary-navigation{
+	width: 100%;
+}
 #menu-primary-navigation>li {
 float: left;
 clear: both;
